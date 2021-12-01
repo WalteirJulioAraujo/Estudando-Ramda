@@ -1,0 +1,15 @@
+{
+  "name": "Ramda",
+  "version": "1.0.0",
+  "description": "O objetivo desse repositório é guardar os exercícios e resumos referentes a biblioteca Ramda.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
